@@ -1,7 +1,20 @@
 hola
+201931581 JonathanMarcosValienteGonzález
+200417131 JoseMoisesGranadosGuevara
+201831234 JoseAlejandroBarriosRodas
 201430801 LuisBasilioBaquiaxSic
-201831699LudvinNicolasBasilioBaquiaxVasquez 
+201831699LudvinNicolasBasilioBaquiaxVasquez
+201831699
+201744792 LuisEduardoGuillenRuiz
+LudvinNicolasBasilioBaquiaxVasquez mundo
 200417131
+201830459 
+201830158 MoisesBenjamínLuisVaíl
+ErikssonJoseHernandezLopez
 201830459 ErikssonJoseHernandezLopez
+201830121 Fernando Ruben Ocaña Ixcot
+201931344 DavidEnriqueLuxBarrera
 JoseMoisesGranadosGuevara
 mundo
+
+>>>>>>> d7248f2ebbbde9ca5ab0413fc5e643afd5edb890
