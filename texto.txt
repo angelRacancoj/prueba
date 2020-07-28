@@ -4,7 +4,9 @@ hola
  mundo
 =======
 <<<<<<< HEAD
-hola 201831699LudvinNicolasBasilioBaquiaxVasquez mundo
+hola 201831699
+201744792 LuisEduardoGuillenRuiz
+LudvinNicolasBasilioBaquiaxVasquez mundo
 =======
 hola
 200417131
