@@ -1,3 +1,12 @@
 hola
 201931581 JonathanMarcosValienteGonzález
+201430801 LuisBasilioBaquiaxSic
+201831699LudvinNicolasBasilioBaquiaxVasquez
+200417131
+201830459 ErikssonJoseHernandezLopez
+201830121 Fernando Ruben Ocaña Ixcot
+JoseMoisesGranadosGuevara
  mundo
+>>>>>>> 7fc0b68211b6570f9c55a838597f718b3daaee49
+>>>>>>> de8fa1266807e375b749e31c3b4b72a5b9371a0a
+>>>>>>> 7351b848bacb15831c7a056e7ec60dd652dcf341
