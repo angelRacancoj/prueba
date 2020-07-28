@@ -17,6 +17,7 @@ ErikssonJoseHernandezLopez
 =======
 201830459 ErikssonJoseHernandezLopez
 201830121 Fernando Ruben Ocaña Ixcot
+201931344 DavidEnriqueLuxBarrera
 >>>>>>> 65caddc37dc89caa283d6bf953c9c8ac8949423d
 JoseMoisesGranadosGuevara
 
