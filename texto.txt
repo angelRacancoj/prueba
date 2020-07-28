@@ -1,10 +1,28 @@
 hola
 201931581 JonathanMarcosValienteGonzález
 201430801 LuisBasilioBaquiaxSic
+<<<<<<< HEAD
 201831699LudvinNicolasBasilioBaquiaxVasquez
+=======
+ mundo
+=======
+<<<<<<< HEAD
+hola 201831699
+201744792 LuisEduardoGuillenRuiz
+LudvinNicolasBasilioBaquiaxVasquez mundo
+=======
+hola
+>>>>>>> f79cccd3f7b9a03402d6859f3b24418ddf313c82
 200417131
+<<<<<<< HEAD
+201830459 
+201830158 MoisesBenjamínLuisVaíl
+ErikssonJoseHernandezLopez
+=======
 201830459 ErikssonJoseHernandezLopez
 201830121 Fernando Ruben Ocaña Ixcot
+201931344 DavidEnriqueLuxBarrera
+>>>>>>> 65caddc37dc89caa283d6bf953c9c8ac8949423d
 JoseMoisesGranadosGuevara
  mundo
 >>>>>>> 7fc0b68211b6570f9c55a838597f718b3daaee49
