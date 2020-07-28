@@ -1,4 +1,16 @@
 hola
 200417131 JoseMoisesGranadosGuevara
 201831234 JoseAlejandroBarriosRodas
+201430801 LuisBasilioBaquiaxSic
  mundo
+=======
+<<<<<<< HEAD
+hola 201831699LudvinNicolasBasilioBaquiaxVasquez mundo
+=======
+hola
+200417131
+201830459 ErikssonJoseHernandezLopez
+JoseMoisesGranadosGuevara
+ mundo
+>>>>>>> 7fc0b68211b6570f9c55a838597f718b3daaee49
+>>>>>>> de8fa1266807e375b749e31c3b4b72a5b9371a0a
